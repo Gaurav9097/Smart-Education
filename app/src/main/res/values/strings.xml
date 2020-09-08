@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Education</string>
+    <string name="log_in_to_continue">Login to Continue</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Log In</string>
+    <string name="enrollment_no">Enrollment No</string>
+    <string name="smart_education_logo">Smart Education Logo</string>
+</resources>
